@@ -1,0 +1,2 @@
+This folder should contain demo audio files.
+For now, the app will work without actual audio files.
